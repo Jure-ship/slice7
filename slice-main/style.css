@@ -327,12 +327,14 @@ float: left;
     font-weight: 600;
     font-size: 3.5vw;
 }
+
 .cont2 .box2 .parag {
     padding-top: 10%;
-    width: 80%;
+    padding-right: auto;
+    width: 70%;
     font-size: 0.99vw;
     color: white;
-}
+} 
 
 .cont2 .box2 .rmbox1 {
     padding-top:18%;
@@ -443,7 +445,7 @@ line-height: 32px
     height: 350px;
  
 }
-@media screen and (max-width:430px) {
+@media screen and (max-width:415px) {
     body {
         margin-left: 0%;
         margin-right: -40%;
@@ -466,7 +468,7 @@ line-height: 32px
     }
     #BGcont {
         margin-top: -10%;
-        width: 150%;
+        width: 100%;
         padding-bottom: 10%;
     }
     .main_menu li a {
@@ -589,7 +591,6 @@ line-height: 32px
     }
     .cont2 .box2 .parag {
         width: 90%;
-        padding-right: 50%;
         font-size: 1.3vh;
     }
     .cont2 .num2 {
